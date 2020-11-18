@@ -9,7 +9,7 @@ This repostitory contains a Java Project to simulate some of math methods found 
 
 
 ### COnnect me via
-1. [Facebook] (https://facebook.com)
+1. [Facebook](https://facebook.com)
 2. [Email](mailto:tieurua1@gmail.com)
 
 ### © 2020 by Huy | FPT  
