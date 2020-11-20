@@ -32,11 +32,10 @@ public class MathUtilityTest {
         assertEquals(720, getFactorial(6));
    }
    
-   @Test(expected = SQLException.class)
+   @Test(expected = IllegalArgumentException.class)
    public void getFactorial_ThrowException_IfInvalidArgument() {
 //       Ngoại lệ không phải value không thể assert, chỉ có thể bắt
-        getFactorial(-5);
-        
+        getFactorial(-5);       
    }
        
     
